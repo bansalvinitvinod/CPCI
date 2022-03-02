@@ -27,3 +27,7 @@ p {
 a {
     text-decoration: none;
 }
+
+.navbar-brand {
+    font-size: 1rem;
+}
